@@ -182,7 +182,8 @@ For major changes, open an issue first to discuss what you would like to change.
 
 Ketan Dav (Team Lead)<br>
 Aksh Patel<br>
-Sahil Chandel
+Devansh Deshpande<br>
+Devarsh Dalwadi
 
 <h2>📚 References</h2>
 
